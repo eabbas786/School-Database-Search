@@ -1,8 +1,8 @@
 //
 //
-//  DVCScheduleSearch
+//  SchoolScheduleSearch
 //
-//  Created by Elsa Abbas on 11/21/21.
+//  Created by Elsa Abbas
 //  This Program searches through DVC schedule text and displays information about a course.
 
 //C++ libraries
